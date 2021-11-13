@@ -1,0 +1,32 @@
+.linknav{
+	color: Grey;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 50px
+}
+#allbody{
+	color: #656904;
+	font-family: "Atlas Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 960px;
+	margin: auto;
+	padding: 10px 20px;
+}
+#content{
+	color: White;
+	float: left;
+	width: 600px;
+	padding-top: 50px;
+	padding-left: 10px
+}
+#sidebar{
+	float: right;
+	width: 300px;
+	
+	padding-top: 50px;
+}
+footer{
+	clear: both;
+}
+#cabecalho{
+	box-shadow: 10px 10px 5px #44454a;
+}
