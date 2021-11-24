@@ -21,12 +21,16 @@
 #sidebar{
 	float: right;
 	width: 300px;
-	
+	color: #ff0000;
 	padding-top: 50px;
 }
 footer{
+	
 	clear: both;
 }
 #cabecalho{
 	box-shadow: 10px 10px 5px #44454a;
+}
+section h3{
+	color: #ff0000;
 }
